@@ -1,0 +1,4 @@
+.DS_Store
+scraper/images/
+server/myappenv/
+ui/node-modules/
